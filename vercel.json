@@ -1,0 +1,6 @@
+{
+  "outputDirectory": ".",
+  "rewrites": [
+    { "source": "/api/search", "destination": "/api/search.js" }
+  ]
+}
